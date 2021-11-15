@@ -1,0 +1,16 @@
+#board {
+    display: grid;
+    grid-template-columns: repeat(10, 50px);
+    grid-template-rows: repeat(10, 50px);
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#boards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+

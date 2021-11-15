@@ -1,0 +1,23 @@
+.no-ship {
+    background-color: lightblue;
+    border: 1px solid darkgrey;
+}
+
+.ship {
+    background-color: black;
+}
+
+
+.unselected {
+    background-color: lightblue;
+}
+
+.hit {
+    background-color: lightcoral;
+    color: red;
+}
+
+.miss {
+    background-color: lightgreen;
+    color: green;
+}
