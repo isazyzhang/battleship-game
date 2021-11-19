@@ -1,0 +1,14 @@
+
+#boards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#opponent, #own{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

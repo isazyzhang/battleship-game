@@ -1,0 +1,21 @@
+#playerTile {
+    border: 1px solid darkgrey;
+}
+
+.n {
+    background-color: lightblue;
+}
+
+.a {
+    background-color: lightgreen;
+    color: green;
+}
+
+.s {
+    background-color: black;
+}
+
+.X {
+    background-color: lightcoral;
+    color: red;
+}
